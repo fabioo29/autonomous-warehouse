@@ -1,0 +1,79 @@
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+C:\Users\João Borges\Desktop\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\software\documentos importantes\trabalhos\CERTMEC\Dropbox\João Borges Silva DropBox\IPCA\Programação 3\Programação III\Aulas\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.Cache
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+C:\Trabalho\IPCA\Disciplinas\Programação III\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojResolveAssemblyReference.cache
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojResolveAssemblyReference.cache
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.Cache
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+E:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojResolveAssemblyReference.cache
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.Cache
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojResolveAssemblyReference.cache
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+D:\Trabalho\IPCA\Disciplinas\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.Cache
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojResolveAssemblyReference.cache
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.Cache
+D:\Trabalho\IPCA\Disciplinas\2017-2018\Automação\Aulas\Hostlink c#\Hostlink c#\Hostlink c#\Hostlink CSharp\Hostlink CSharp\bin\Debug\EasyModbus.dll
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojAssemblyReference.cache
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.cache
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.CopyComplete
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+C:\Users\Lenovo Y530 18\Desktop\Automação\TP#1\Hostlink OMRON\Hostlink CSharp-20200514\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\bin\Debug\Hostlink CSharp.exe
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\bin\Debug\Hostlink CSharp.pdb
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csprojAssemblyReference.cache
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.HostlinkSimulador.resources
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink_CSharp.Properties.Resources.resources
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.GenerateResource.cache
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.csproj.CopyComplete
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.exe
+C:\Users\Lenovo Y530 18\Desktop\TP#1 Automação\Hostlink C#\Hostlink CSharp\obj\x86\Debug\Hostlink CSharp.pdb
